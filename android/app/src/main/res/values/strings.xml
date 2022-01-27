@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">Meeps</string>
+<string name="facebook_app_id">1075840373266390</string>
+<string name="fb_login_protocol_scheme">fb1075840373266390</string>
+</resources>

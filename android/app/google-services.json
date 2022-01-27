@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586644351792",
+    "project_id": "meeps-7e538",
+    "storage_bucket": "meeps-7e538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586644351792:android:110534246b732fabf8f6f5",
+        "android_client_info": {
+          "package_name": "com.goprogs.meeps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586644351792-65sq51ehhabn2vt9uadd4r2pm8nfe6fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goprogs.meeps",
+            "certificate_hash": "898e4bc76983f5dce939f39f60632b970f107065"
+          }
+        },
+        {
+          "client_id": "586644351792-8ka0sdc51le4n649d0m3ev8pte2ij6cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKA9xlmQb0d32M5jc2AjTN791nPOLCJmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586644351792-8ka0sdc51le4n649d0m3ev8pte2ij6cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

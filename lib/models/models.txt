@@ -1,0 +1,1 @@
+Create datamodels in this directory. Use UpperCamelCase as naming convention.
